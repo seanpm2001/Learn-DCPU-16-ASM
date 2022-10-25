@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# DCPU-16 ASM source file
+*.dasm16 linguist-detectable=true
+*.dasm16 linguist-documentation=false
+*.dasm16 linguist-language=DCPU-16-ASM
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +168,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Monday, October 24th at 5:44 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
